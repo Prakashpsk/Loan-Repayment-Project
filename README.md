@@ -2,15 +2,12 @@
 
 ![](https://github.com/Prakashpsk/Loan-Repayment-Project/blob/main/repay_de_img.png)
 
-<video width="640" height="360" controls>
-  <source src="[URL_OF_YOUR_VIDEO_FILE](https://drive.google.com/drive/folders/1pDBKGIUC8qTFeagyMUwReQD2Z39ivAHP?usp=drive_link)" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Google Drive Video Presentation Link](https://drive.google.com/file/d/1q9ztjc3nxDgmMufe03RBLcQYsH6W0iuz/view?usp=drive_link)
 
 ## Introduction
 📚 This project aims to build and train a model to predict whether a customer will repay or default on a loan.
 
-[Google Drive Link](https://drive.google.com/file/d/1q9ztjc3nxDgmMufe03RBLcQYsH6W0iuz/view?usp=drive_link)
+
 
 
 ## Skills/Concepts Developed
