@@ -3,7 +3,7 @@
 ![](https://github.com/Prakashpsk/Loan-Repayment-Project/blob/main/repay_de_img.png)
 
 <video width="640" height="360" controls>
-  <source src="[URL_OF_YOUR_VIDEO_FILE](https://github.com/Prakashpsk/Loan-Repayment-Project/edit/main/README.md)" type="video/mp4">
+  <source src="[URL_OF_YOUR_VIDEO_FILE](https://drive.google.com/drive/folders/1pDBKGIUC8qTFeagyMUwReQD2Z39ivAHP?usp=drive_link)" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
