@@ -10,6 +10,9 @@
 ## Introduction
 📚 This project aims to build and train a model to predict whether a customer will repay or default on a loan.
 
+[Google Drive Link](https://drive.google.com/file/d/1q9ztjc3nxDgmMufe03RBLcQYsH6W0iuz/view?usp=drive_link)
+
+
 ## Skills/Concepts Developed
 🔍 Data preprocessing, feature engineering, model building, cross-validation, hyperparameter tuning.
 
