@@ -36,4 +36,4 @@
 👨‍💻 This project was completed by [Your Name] as part of [Course/Program Name].
 
 ## About the Author
-👋 [Prakash] is a [Data Scientist] with expertise in [Machine Learning & Deep Learning]. Feel free to reach out for any questions or collaborations at [Your Email].
+👋 [Prakash] is a [Data Scientist] with expertise in [Machine Learning & Deep Learning]. Feel free to reach out for any questions or collaborations at [prakash2822001@gmail.com].
