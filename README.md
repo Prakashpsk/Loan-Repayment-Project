@@ -1,5 +1,6 @@
 # Loan Repayment Assessment in Banking
 
+![](https://github.com/Prakashpsk/Loan-Repayment-Project/blob/main/repay_de_img.png)
 ## Introduction
 📚 This project aims to build and train a model to predict whether a customer will repay or default on a loan.
 
