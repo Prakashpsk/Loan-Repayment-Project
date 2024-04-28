@@ -40,7 +40,7 @@
 🔧 Follow the steps outlined in the Jupyter Notebook to train the model and make predictions.
 
 ## Credits
-👨‍💻 This project was completed by [Your Name] as part of [Course/Program Name].
+👨‍💻 This project was completed by [PRAKASH.P] as part of [Data Science & Data Analysis Bootcamp with UpGrad].
 
 ## About the Author
 👋 [Prakash] is a [Data Scientist] with expertise in [Machine Learning & Deep Learning]. Feel free to reach out for any questions or collaborations at [prakash2822001@gmail.com].
